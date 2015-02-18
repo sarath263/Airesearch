@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'GothamLight';
+	src: url('../fonts/GothamLight.eot');
+	src: local('../fonts/GothamLight'), url('../fonts/GothamLight.woff') format('woff'), url('../fonts/GothamLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'GothamBook';
+	src: url('../fonts/GothamBook.eot');
+	src: local('../fonts/GothamBook'), url('../fonts/GothamBook.woff') format('woff'), url('../fonts/GothamBook.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Panroman';
+	src: url('../fonts/PANROMAN.eot');
+	src: local('../fonts/PANROMAN'), url('../fonts/PANROMAN.woff') format('woff'), url('../fonts/PANROMAN.ttf') format('truetype');
+}
